@@ -1,0 +1,7 @@
+flask
+pyngrok
+yt-dlp
+ultralytics
+opencv-python
+ffmpeg
+gradio
